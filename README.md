@@ -12,5 +12,16 @@ GitHub Projectを使用する。
 ## ソースコード管理
 GitHubを使用する。
 
+## 技術スタック
+
+### My SQL
+mysql  Ver 8.3.0 for macos12.6 on x86_64 (Homebrew)
+
+#### バージョン確認
+```
+mysql --version 
+mysql  Ver 8.3.0 for macos12.6 on x86_64 (Homebrew)
+```
+
 ## 使い方
 準備中。
